@@ -19,9 +19,9 @@ jobs:
         uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
-          ball-color: "#58a6ff"
-          paddle-color: "#58a6ff"
-          bricks-colors: "#0d1117,#58a6ff,#1f6feb,#388bfd,#79c0ff"
+          ball-color: "#79c0ff"
+          paddle-color: "#79c0ff"
+          bricks-colors: "#0d1117,#1f6feb,#388bfd,#58a6ff,#79c0ff"
 
       - name: Move generated SVGs to temp
         run: |
