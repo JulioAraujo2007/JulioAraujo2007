@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou Júlio Araújo</h1>
+<h1 align="center">Olá! Eu sou Júlio Araújo</h1>
 
 <p align="center">
   Estudante de Ciência da Computação na UCB, atuando na residência acadêmica Squad 23 (Porto Digital).<br/>
@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=java,js,html,c,nodejs,react,mysql&theme=dark"/>
 </p>
 
-## 🧱 Quebrando meus commits
+## 🎮 Quebrando meus commits
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JulioAraujo2007/JulioAraujo2007/github-breakout/images/breakout-dark.svg" />
